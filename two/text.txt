@@ -1,0 +1,7 @@
+Varibales
+ABIHA = FIREND NAME
+ 
+In JavaScript, variables are containers used to store data values. JavaScript is dynamically typed, meaning you do not need to explicitly declare what type of data (like numbers or text) a variable will hold—it automatically adapts at runtime
+
+
+varibale ==> var , let , const 
