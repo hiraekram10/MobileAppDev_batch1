@@ -1,0 +1,11 @@
+ < less than 
+ >greater than
+ == equals
+ === strict equals 
+ != not equal
+
+
+ js is case sensitive  (capital letter & small letter) uppercase , lowercase
+
+ = assigment operator
+

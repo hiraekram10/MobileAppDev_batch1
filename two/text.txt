@@ -5,3 +5,15 @@ In JavaScript, variables are containers used to store data values. JavaScript is
 
 
 varibale ==> var , let , const 
+same name allowed in var
+same name not allowed in let , const 
+value not changable const 
+
+
+______________Data types______________ 
+- string   ==> "ajhsfgd"   'dgsj5'
+- numbers ==> 7834 2384.97
+- boolean  ==> true , false
+
+
+
