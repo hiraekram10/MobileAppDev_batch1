@@ -26,7 +26,9 @@
 // myfirend1 ,m5hello
 //start with small letter 
 // my_friend   pascal case
-// myFriend
+// myFriend  camelcase
+
+
 
 
 
