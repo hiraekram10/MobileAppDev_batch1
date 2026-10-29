@@ -199,19 +199,19 @@
 // try, catch
 
 
-let num= [10]
-console.log(num);
+// let num= [10]
+// console.log(num);
 
 
-num[1] =  "snaa"
+// num[1] =  "snaa"
 
-try{
-    console.log(nu);
-}catch(a){
-    console.log(a);
-}
+// try{
+//     console.log(nu);
+// }catch(a){
+//     console.log(a);
+// }
 
-console.log(num.length);
+// console.log(num.length);
 
 
 
